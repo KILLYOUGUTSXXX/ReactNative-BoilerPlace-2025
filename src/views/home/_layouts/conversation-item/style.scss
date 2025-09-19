@@ -1,0 +1,65 @@
+.animWrapper {
+  background-color: rgb(238, 238, 238);
+}
+
+.animWrapperSelect {
+  background-color: rgba(18, 117, 101, 0.575);
+}
+
+.animText {
+  color: white;
+}
+
+.wrapper-item {
+  padding: 0.75rem 0.5rem 0.75rem 0.5rem;
+  // background-color: rgb(238, 238, 238);
+  // box-shadow: 1px 2px 2.25px rgba(3, 3, 3, 0.575);
+  width: 100%;
+}
+
+.wrapper-description {
+  // This will ensure the children are distributed across the available space
+  flex: 1;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.name {
+  font-size: 14px;
+  font-weight: 600;
+  color: rgb(1, 70, 58);
+}
+
+.last-chat {
+  font-size: 11px;
+  font-weight: 500;
+  color: rgb(161, 161, 161);
+  // This is the most important change
+  flex: 1;
+}
+
+.updated-at {
+  font-size: 11px;
+  font-weight: 500;
+  color: rgb(161, 161, 161);
+  // Optional: add a small margin to the left for spacing
+  margin-left: 5px;
+}
+
+.picture {
+  width: 30;
+  height: 30;
+}
+
+.wrapper-picture {
+  border-bottom-left-radius: 8;
+  border-top-right-radius: 8;
+  border-bottom-right-radius: 2;
+  border-top-left-radius: 2;
+  box-shadow: 1px 2px 2.25px rgba(3, 3, 3, 0.575);
+  overflow: hidden;
+}
+
+.wrapper-text {
+  flex: 1;
+}

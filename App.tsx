@@ -4,7 +4,9 @@
  *
  * @format
  */
-import { StatusBar, StyleSheet, Text, useColorScheme } from 'react-native'
+import 'react-native-reanimated'
+import 'react-native-gesture-handler'
+import { StatusBar, StyleSheet, useColorScheme } from 'react-native'
 import { SafeAreaProvider, SafeAreaView } from 'react-native-safe-area-context'
 
 import _styles from './style.scss'

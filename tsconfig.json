@@ -10,6 +10,9 @@
     "**/Pods"
   ],
   "compilerOptions": {
+    "jsx": "react-native",
+    "skipLibCheck": true,
+    "baseUrl": "./",
     "paths": {
       "@lynx-state": [
         "./src/_supports/_lynx-state/engine.tsx"

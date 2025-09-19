@@ -1,0 +1,182 @@
+[
+  {
+    "conversation_id": "conv-001",
+    "customer_id": 101,
+    "customer_name": "Agus Prawira",
+    "last_chat": "Selamat pagi, ada promo apa ya?",
+    "last_chat_id": "chat-001",
+    "last_updated_time": 1758134400,
+    "avatar_url": "https://i.pravatar.cc/150?u=1"
+  },
+  {
+    "conversation_id": "conv-002",
+    "customer_id": 102,
+    "customer_name": "Siti Rahayu",
+    "last_chat": "Pesananku sudah dikirim?",
+    "last_chat_id": "chat-002",
+    "last_updated_time": 1758134580,
+    "avatar_url": "https://i.pravatar.cc/150?u=2"
+  },
+  {
+    "conversation_id": "conv-003",
+    "customer_id": 103,
+    "customer_name": "Budi Santoso",
+    "last_chat": "Tolong bantu reset password.",
+    "last_chat_id": "chat-003",
+    "last_updated_time": 1758134760,
+    "avatar_url": "https://i.pravatar.cc/150?u=3"
+  },
+  {
+    "conversation_id": "conv-004",
+    "customer_id": 104,
+    "customer_name": "Dewi Wijaya",
+    "last_chat": "Kapan toko buka?",
+    "last_chat_id": "chat-004",
+    "last_updated_time": 1758134940,
+    "avatar_url": "https://i.pravatar.cc/150?u=4"
+  },
+  {
+    "conversation_id": "conv-005",
+    "customer_id": 105,
+    "customer_name": "Eko Prasetyo",
+    "last_chat": "Produk ini masih ada?",
+    "last_chat_id": "chat-005",
+    "last_updated_time": 1758135120,
+    "avatar_url": "https://i.pravatar.cc/150?u=5"
+  },
+  {
+    "conversation_id": "conv-006",
+    "customer_id": 106,
+    "customer_name": "Fitri Handayani",
+    "last_chat": "Bisa COD?",
+    "last_chat_id": "chat-006",
+    "last_updated_time": 1758135300,
+    "avatar_url": "https://i.pravatar.cc/150?u=6"
+  },
+  {
+    "conversation_id": "conv-007",
+    "customer_id": 107,
+    "customer_name": "Gita Lestari",
+    "last_chat": "Ada warna lain?",
+    "last_chat_id": "chat-007",
+    "last_updated_time": 1758135480,
+    "avatar_url": "https://i.pravatar.cc/150?u=7"
+  },
+  {
+    "conversation_id": "conv-008",
+    "customer_id": 108,
+    "customer_name": "Hadi Nugroho",
+    "last_chat": "Terima kasih atas bantuannya.",
+    "last_chat_id": "chat-008",
+    "last_updated_time": 1758135660,
+    "avatar_url": "https://i.pravatar.cc/150?u=8"
+  },
+  {
+    "conversation_id": "conv-009",
+    "customer_id": 109,
+    "customer_name": "Indah Permata",
+    "last_chat": "Bagaimana cara pengembalian barang?",
+    "last_chat_id": "chat-009",
+    "last_updated_time": 1758135840,
+    "avatar_url": "https://i.pravatar.cc/150?u=9"
+  },
+  {
+    "conversation_id": "conv-010",
+    "customer_id": 110,
+    "customer_name": "Joko Susilo",
+    "last_chat": "Saya ingin mengajukan komplain.",
+    "last_chat_id": "chat-010",
+    "last_updated_time": 1758136020,
+    "avatar_url": "https://i.pravatar.cc/150?u=10"
+  },
+  {
+    "conversation_id": "conv-011",
+    "customer_id": 111,
+    "customer_name": "Kartika Sari",
+    "last_chat": "Apakah bisa pesan grosir?",
+    "last_chat_id": "chat-011",
+    "last_updated_time": 1758136200,
+    "avatar_url": "https://i.pravatar.cc/150?u=11"
+  },
+  {
+    "conversation_id": "conv-012",
+    "customer_id": 112,
+    "customer_name": "Lutfi Anwar",
+    "last_chat": "Biaya pengiriman berapa?",
+    "last_chat_id": "chat-012",
+    "last_updated_time": 1758136380,
+    "avatar_url": "https://i.pravatar.cc/150?u=12"
+  },
+  {
+    "conversation_id": "conv-013",
+    "customer_id": 113,
+    "customer_name": "Maya Rahmawati",
+    "last_chat": "Punya varian ukuran lain?",
+    "last_chat_id": "chat-013",
+    "last_updated_time": 1758136560,
+    "avatar_url": "https://i.pravatar.cc/150?u=13"
+  },
+  {
+    "conversation_id": "conv-014",
+    "customer_id": 114,
+    "customer_name": "Nanda Pratama",
+    "last_chat": "Stok produk A kosong?",
+    "last_chat_id": "chat-014",
+    "last_updated_time": 1758136740,
+    "avatar_url": "https://i.pravatar.cc/150?u=14"
+  },
+  {
+    "conversation_id": "conv-015",
+    "customer_id": 115,
+    "customer_name": "Putri Anggraini",
+    "last_chat": "Saya butuh faktur pajak.",
+    "last_chat_id": "chat-015",
+    "last_updated_time": 1758136920,
+    "avatar_url": "https://i.pravatar.cc/150?u=15"
+  },
+  {
+    "conversation_id": "conv-016",
+    "customer_id": 116,
+    "customer_name": "Rizky Firmansyah",
+    "last_chat": "Ada garansi produk?",
+    "last_chat_id": "chat-016",
+    "last_updated_time": 1758137100,
+    "avatar_url": "https://i.pravatar.cc/150?u=16"
+  },
+  {
+    "conversation_id": "conv-017",
+    "customer_id": 117,
+    "customer_name": "Sri Utami",
+    "last_chat": "Bisa minta panduan pakai?",
+    "last_chat_id": "chat-017",
+    "last_updated_time": 1758137280,
+    "avatar_url": "https://i.pravatar.cc/150?u=17"
+  },
+  {
+    "conversation_id": "conv-018",
+    "customer_id": 118,
+    "customer_name": "Taufik Hidayat",
+    "last_chat": "Ada diskon untuk member?",
+    "last_chat_id": "chat-018",
+    "last_updated_time": 1758137460,
+    "avatar_url": "https://i.pravatar.cc/150?u=18"
+  },
+  {
+    "conversation_id": "conv-019",
+    "customer_id": 119,
+    "customer_name": "Ulfa Nuraini",
+    "last_chat": "Kapan restock produk?",
+    "last_chat_id": "chat-019",
+    "last_updated_time": 1758137640,
+    "avatar_url": "https://i.pravatar.cc/150?u=19"
+  },
+  {
+    "conversation_id": "conv-020",
+    "customer_id": 120,
+    "customer_name": "Vina Octavia",
+    "last_chat": "Produknya original?",
+    "last_chat_id": "chat-020",
+    "last_updated_time": 1758137820,
+    "avatar_url": "https://i.pravatar.cc/150?u=20"
+  }
+]

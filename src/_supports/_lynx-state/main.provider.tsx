@@ -99,7 +99,11 @@ export function registerModels<
     }
   }
 }
-
+/**
+ *
+ * @param model call model name
+ * @returns
+ */
 export function useLynxStore<
   State,
   Action extends { [P: string]: (...args: any) => any }
